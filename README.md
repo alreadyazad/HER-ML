@@ -15,7 +15,7 @@
 This project focuses on **machine learning–assisted discovery of efficient Hydrogen Evolution Reaction (HER) catalysts**.  
 The objective is to **predict hydrogen adsorption free energy (ΔGₕ)** for transition-metal and alloy catalysts using **composition-derived descriptors**, enabling **large-scale virtual screening** without expensive **DFT calculations**.
 
-The work was carried out as part of a **research internship at National Dong Hwa University (NDHU), Taiwan**, under the **Taiwan Experience Education Program (TEEP)**.
+The work was carried out as part of a **research internship at National Dong Hwa University (NDHU), Taiwan**, under the **Taiwan Education Experience Program (TEEP)**.
 
 ---
 
