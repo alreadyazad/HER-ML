@@ -1,6 +1,6 @@
 # HER-ML  
 #  Machine Learning–Driven Screening of HER Catalysts  
-**(TEEP Research Internship, Nnationa Dong Hwa University (NDHU) Hualien, Taiwan)**
+**(TEEP Research Internship, National Dong Hwa University (NDHU) Hualien, Taiwan)**
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-orange)
