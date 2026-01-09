@@ -1,4 +1,4 @@
-# HER-ML  
+# Hydrogen Evolution Reaction-ML  
 #  Machine Learning–Driven Screening of HER Catalysts  
 **(TEEP Research Internship, National Dong Hwa University (NDHU) Hualien, Taiwan)**
 
